@@ -11,7 +11,7 @@ $subject = 'Birthday Reminders for August';
 $message = '
 <html>
 <head>
-  <title>Birthday Reminders for August</title>
+  <title>Birthday Reminders  for August</title>
 </head>
 <body>
   <p>Here are the birthdays upcoming in August!</p>
